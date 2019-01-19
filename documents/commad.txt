@@ -1,0 +1,29 @@
+1. Check ip: ip a
+2. Reset: reboot
+3. pwd
+4. Check current user login: id
+5. Cancel: ctr + c
+6. Clear Screen: ctr + l or clear
+7. tab
+8. History: history
+9. Make folder: mkdir foldername
+10. Make file: touch filename
+11. Delete file: rf -f filename
+
+VI
+12. Create new file or open file: vi filename
+13. Insert: i
+14. Comand: esc
+15. Save: shift + : --> write 
+16. Save and quit: shift + : --> wq
+17. Read a file: cat filename
+18. Copy: yy
+19. Paste: p
+20. Delete: dd
+21. Undo: u
+23. Find: /keyword
+24. Next: n
+25. Replay: %s/oldword/newword/g
+26. Show line number: set nu
+27. Dont show line number: set nonu
+28. service --status-all : check service is running
